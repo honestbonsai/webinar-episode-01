@@ -24,3 +24,5 @@ the video. If you'd like a challenge add a new behavior to the contract.
   * [Video archive](https://www.crowdcast.io/e/truffle-webinar-series--). Note you will have to register with crowdcast to see the video
   * [Live code transcript](./steps.md)
   * [Truffle Assertion plugin](https://github.com/rkalis/truffle-assertions) and associated [tutorial](https://kalis.me/assert-reverts-solidity-smart-contract-test-truffle/)
+
+🧮
